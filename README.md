@@ -1,6 +1,6 @@
 Segmentation tool
 =================
-Use of super pixel to create label for segmentation.
+Use of super pixel to create labels for segmentation.
 
 Reference
 =========
